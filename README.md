@@ -3,13 +3,14 @@
       <div>
         </a>
         <a href="https://archlinux.org/">
-          <img src="https://img.shields.io/badge/Arch_Linux-Compatible-89DCEB?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1E1E2E" alt="Arch Linux Compatible">
+          <img src="https://img.shields.io/badge/Arch_Linux-Compatible-89DCEB?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=1E1E2E" alt="Arch Linux">
         </a>
               <a href="https://github.com/Lunaris-Project/HyprLuna/blob/main/LICENSE">
           <img src="https://img.shields.io/github/license/Lunaris-Project/HyprLuna?style=for-the-badge&logo=gnu&color=FAB387&labelColor=1E1E2E" alt="License">
         </a>
+<h1>INSTALL
+<pre> git clone https://github.com/nirmitpatel9714/HYPRLUNA-DOTS.git && cd HYPRLUNA-DOTS && bash ./install
 <h1>✨ ShowCase ✨</h1>
-
 <table>
   <tr>
     <td width="50%" align="center"><img src="previews/notch2.png" alt="HyprLuna Desktop with Notch" style="border-radius: 12px; width: 100%; height: auto;"></td>
