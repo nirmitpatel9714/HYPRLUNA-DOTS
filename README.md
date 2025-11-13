@@ -8,9 +8,6 @@
               <a href="https://github.com/Lunaris-Project/HyprLuna/blob/main/LICENSE">
           <img src="https://img.shields.io/github/license/Lunaris-Project/HyprLuna?style=for-the-badge&logo=gnu&color=FAB387&labelColor=1E1E2E" alt="License">
         </a>
-<pre><h1 style="font-size:50px">Update </h1>
-    <p>Niri and Mango WC Are coming with Noctilia Shell and waybar!
-</pre>
 <h1 style="font-size:50px">Installation </h1>
 <pre>bash git clone https://github.com/nirmitpatel9714/HYPRLUNA-DOTS.git && cd HYPRLUNA-DOTS && bash ./install
 </pre>
@@ -59,6 +56,8 @@
   </table>
 <div>
 </br>
+<h1 style="font-size:50px">Update </h1>
+<p>Niri and Mango WC Are coming with Noctilia Shell and waybar!
 <h1> 📝 License & Copyright
 <img src="https://img.shields.io/github/license/Lunaris-Project/HyprLuna?style=for-the-badge&logo=gnu&color=FAB387&labelColor=1E1E2E" alt="License Badge"/>
 <p>Copyright © 2025 <a href="https://github.com/Lunaris-Project">Lunaris Project</a></p>
