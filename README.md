@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/github/license/Lunaris-Project/HyprLuna?style=for-the-badge&logo=gnu&color=FAB387&labelColor=1E1E2E" alt="License Badge"/>
 <p>Copyright © 2025 <a href="https://github.com/Lunaris-Project">Lunaris Project</a></p>
 <p>This project is licensed under the <a href="https://github.com/Lunaris-Project/HyprLuna/blob/main/LICENSE">MIT License</a>.</p>
-<hr style="border: 2px solid #CBA6F7;">
+<hr style="border: 1px solid #CBA6F7;">
 <p>
 <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-F38BA8?style=for-the-badge&labelColor=1E1E2E" alt="Made with Love"/>
 <img src="https://img.shields.io/badge/Powered%20by-Lunaris--Team-89DCEB?style=for-the-badge&labelColor=1E1E2E" alt="Powered by Lunaris-Project Team"/>
