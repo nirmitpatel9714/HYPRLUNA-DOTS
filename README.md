@@ -8,7 +8,7 @@
               <a href="https://github.com/Lunaris-Project/HyprLuna/blob/main/LICENSE">
           <img src="https://img.shields.io/github/license/Lunaris-Project/HyprLuna?style=for-the-badge&logo=gnu&color=FAB387&labelColor=1E1E2E" alt="License">
         </a>
-###Installation
+<h1 style="font-size:50px">Installation </h1>
 <pre>bash git clone https://github.com/nirmitpatel9714/HYPRLUNA-DOTS.git && cd HYPRLUNA-DOTS && bash ./install
 </pre>
 <h1>✨ ShowCase ✨</h1>
