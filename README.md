@@ -57,7 +57,7 @@
 <div>
 </br>
 <h1 style="font-size:50px">Update </h1>
-<p>Niri and Mango WC Are coming with Noctilia Shell and waybar!
+<p>Niri and Mango WC Are coming with Noctilia Shell and DMS!
 <h1 style="font-size:50px">📝 License & Copyright </h1>
 <img src="https://img.shields.io/github/license/Lunaris-Project/HyprLuna?style=for-the-badge&logo=gnu&color=FAB387&labelColor=1E1E2E" alt="License Badge"/>
 <p>Copyright © 2025 <a href="https://github.com/Lunaris-Project">Lunaris Project</a></p>
