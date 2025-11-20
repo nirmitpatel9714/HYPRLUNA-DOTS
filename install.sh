@@ -47,7 +47,7 @@ C_ANSI_RESET="\033[0m"
 
 # --- Argument Parsing ---
 BRANCH=""
-REPO_URL="https://github.com/Lunaris-Project/HyprLuna.git"
+REPO_URL="https://github.com/nirmitpatel9714/HYPRLUNA_DOTS.git"
 
 show_help() {
     echo "HYPRLUNA Installer for Arch Linux"
